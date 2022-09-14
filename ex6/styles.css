@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+p.content{
+    margin-bottom: 12px;
+    font-family:cursive
+}
